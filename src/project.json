@@ -5,7 +5,7 @@
         "image": "coding/RecipeGram.png",
         "overview": "RecipeGram is the go to site for adding and storing your own recipes using a login. You can also view recipes that other uses make public and write reviews.",
         "btn-deployed": "https://recipe-gram-best-team.herokuapp.com/",
-        "btn-github": "https://github.com/burnsgirl/Recipe-Gram",
+        "btn-github": "https://github.com/burnsgirl/Recipe-Gram"
     },
     {
     
@@ -14,7 +14,7 @@
         "image": "coding/Note Taker.png",
         "overview": "Keep track of things you need to do with this list application that saves the information locally.",
         "btn-deployed": "https://voyage-monsieur-93664.herokuapp.com/",
-        "btn-github": "https://github.com/burnsgirl/Note-Taker",
+        "btn-github": "https://github.com/burnsgirl/Note-Taker"
 
     },
     {
@@ -23,7 +23,7 @@
         "image": "coding/Code Quiz.png",
         "overview": "Take this quiz if you would like to test your web coding knowledge!",
         "btn-deployed": "https://burnsgirl.github.io/Code-Quiz/",
-        "btn-github": "https://github.com/burnsgirl/Code-Quiz",
+        "btn-github": "https://github.com/burnsgirl/Code-Quiz"
     },
     {
         "id":4,
@@ -31,7 +31,7 @@
         "image": "coding/Work Schedule.png",
         "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
         "btn-deployed": "https://burnsgirl.github.io/Work-Schedule/",
-        "btn-github": "https://github.com/burnsgirl/Work-Schedule",
+        "btn-github": "https://github.com/burnsgirl/Work-Schedule"
     },
     {
         "id":5,
@@ -39,7 +39,7 @@
         "image": ,
         "overview": "",
         "btn-deployed": ,
-        "btn-github": ,
+        "btn-github": 
     },
     {
         "id":6,
@@ -47,6 +47,6 @@
         "image": ,
         "overview": "",
         "btn-deployed": ,
-        "btn-github": ,
+        "btn-github": 
     }
 ]
