@@ -18,7 +18,7 @@ function App() {
       deployed={project[0].deployed}
       github={project[0].github}
       />
-      {/* <Projects 
+      <Projects 
       mockup={project[1].mockup}
       image={project[1].image}
       overview={project[1].overview}
@@ -36,8 +36,8 @@ function App() {
       overview={project[3].overview}
       deployed={project[3].deployed}
       github={project[3].github}
-      /> */}
-      {/* <Projects mockup={project[4].mockup}
+      />
+      <Projects mockup={project[4].mockup}
       image={project[4].image}
       overview={project[4].overview}
       deployed={project[4].deployed}
@@ -49,7 +49,7 @@ function App() {
       overview={project[5].overview}
       deployed={project[5].deployed}
       github={project[5].github}/>
-     */}
+    
 </>
 
   );

@@ -11,7 +11,7 @@
     
         "id":2,
         "mockup": "Note Taker",
-        "image": "coding/Note Taker.png",
+        "image": "../coding/Note Taker.png",
         "overview": "Keep track of things you need to do with this list application that saves the information locally.",
         "deployed": "https://voyage-monsieur-93664.herokuapp.com/",
         "github": "https://github.com/burnsgirl/Note-Taker"
@@ -20,7 +20,7 @@
     {
         "id":3,
         "mockup": "Code Quiz",
-        "image": "coding/Code Quiz.png",
+        "image": "../coding/Code Quiz.png",
         "overview": "Take this quiz if you would like to test your web coding knowledge!",
         "deployed": "https://burnsgirl.github.io/Code-Quiz/",
         "github": "https://github.com/burnsgirl/Code-Quiz"
@@ -28,7 +28,7 @@
     {
         "id":4,
         "mockup": "Work Schedule",
-        "image": "coding/Work Schedule.png",
+        "image": "../coding/Work Schedule.png",
         "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
         "deployed": "https://burnsgirl.github.io/Work-Schedule/",
         "github": "https://github.com/burnsgirl/Work-Schedule"
