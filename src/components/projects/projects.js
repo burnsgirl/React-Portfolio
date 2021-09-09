@@ -1,7 +1,7 @@
 import React from 'react';
 import './projects.css';
 
-function Project (props) {
+function Projects (props) {
     return (
         <div class="container">
 
@@ -13,8 +13,8 @@ function Project (props) {
                     <h1>{props.mockup}</h1>
                     <img>{props.image}</img>
                     <div class="links">
-                        <button class="btn-deployed" onclick="window.location.{props.btn-deployed}">Deployed</button>
-                        <button class="btn-github" onclick="window.location.{props.btn-github}">GitHub</button>
+                        <button class="btn-deployed" target='_blank' onclick="window.location.{props.btn-deployed}">Deployed</button>
+                        <button class="btn-github" target='_blank' onclick="window.location.{props.btn-github}">GitHub</button>
                     </div>
                 </div>  
             </div>
@@ -22,4 +22,4 @@ function Project (props) {
     )
 }
 
-export default Project;
+export default Projects;
