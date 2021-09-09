@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Head() {
+function Doctype() {
 
     return (
 
@@ -27,4 +27,4 @@ function Head() {
 
 }
 
-export default Head;
+export default Doctype;

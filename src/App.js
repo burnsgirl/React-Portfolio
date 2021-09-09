@@ -1,12 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Head from './components/doctype';
+import Doctype from './components/doctype';
+import Header from './components/header';
 
 function App() {
   return (
 
     <>
-      <Head />
+      <Doctype />
+      <Header />
     </>
 
 
