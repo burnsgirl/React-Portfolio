@@ -156,3 +156,69 @@ header {
         border:none;
     }
 }
+
+@media screen and (max-width:850px) {
+    /* Header */
+    .container {
+        margin: 0px 20px;
+    }
+
+    .header {
+        height: 650px;
+    }
+
+    #pic img {
+        position: relative;
+        left:345px;
+    }
+
+    #name {
+        position: relative;
+        left: 20px;
+        bottom: -270px;
+    }
+
+    #about {
+        position: relative;
+        left: -345px;
+        top: 320px;
+    }
+
+    #aboutme {
+        position: relative;
+        top: 293px;
+        left: -2px;
+        width: 400px;
+    }
+
+    .contact {
+        position: relative;
+        left: -80px;
+        top: 265px;
+        width: 600px;
+        border-bottom:none;
+    }
+
+    #number {
+        position: relative;
+        left:195px;
+    }
+
+    #email {
+        position: relative;
+        left: 12px;
+        top: 35px;
+    }
+
+    #linkedin {
+        position: relative;
+        left: -175px;
+        top: 80px;
+    }
+
+    #github {
+        position: relative;
+        left: -172px;
+        top: 80px;
+    }
+}
