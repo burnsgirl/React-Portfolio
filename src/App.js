@@ -15,42 +15,42 @@ function App() {
       mockup={project[0].mockup}
       image={project[0].image}
       overview={project[0].overview}
-      btn-deployed={project[0].btn-deployed}
-      btn-github={project[0].btn-github}
+      deployed={project[0].deployed}
+      github={project[0].github}
       />
-      <Projects 
+      {/* <Projects 
       mockup={project[1].mockup}
       image={project[1].image}
       overview={project[1].overview}
-      btn-deployed={project[1].btn-deployed}
-      btn-github={project[1].btn-github}
+      deployed={project[1].deployed}
+      github={project[1].github}
       />
       <Projects mockup={project[2].mockup}
       image={project[2].image}
       overview={project[2].overview}
-      btn-deployed={project[2].btn-deployed}
-      btn-github={project[2].btn-github}
+      deployed={project[2].deployed}
+      github={project[2].github}
       />
       <Projects mockup={project[3].mockup}
       image={project[3].image}
       overview={project[3].overview}
-      btn-deployed={project[3].btn-deployed}
-      btn-github={project[3].btn-github}
-      />
-      <Projects mockup={project[4].mockup}
+      deployed={project[3].deployed}
+      github={project[3].github}
+      /> */}
+      {/* <Projects mockup={project[4].mockup}
       image={project[4].image}
       overview={project[4].overview}
-      btn-deployed={project[4].btn-deployed}
-      btn-github={project[4].btn-github}
+      deployed={project[4].deployed}
+      github={project[4].github}
       />
       <Projects 
       mockup={project[5].mockup}
       image={project[5].image}
       overview={project[5].overview}
-      btn-deployed={project[5].btn-deployed}
-      btn-github={project[5].btn-github}/>
-    </>
-
+      deployed={project[5].deployed}
+      github={project[5].github}/>
+     */}
+</>
 
   );
 }
