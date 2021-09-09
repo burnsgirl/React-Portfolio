@@ -105,3 +105,54 @@ header {
     text-decoration: none;
     color: rgb(95, 93, 93);
 }
+
+@media screen and (max-width:1050px) {
+     /* Body */
+     .container {
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    } 
+    
+    /* Header */
+
+    .header {
+        height: 350px;
+    }
+
+    #pic img {
+        position: relative;
+        left:165px;
+    }
+
+    #name {
+        position: relative;
+        left: 180px;
+    }
+
+    #about {
+        position: relative;
+        left: -180px;
+        top: 50px;
+    }
+
+    #aboutme {
+        position: relative;
+        top:25px;
+        left: 159px;
+        width: 400px;
+    }
+
+    .contact {
+        position: relative;
+        left:-80px;
+        border-bottom: 3px solid rgb(95, 93, 93);
+        width:600px;
+    }
+
+     .aboutmeoverview {
+        height:300px;
+        border:none;
+    }
+}
