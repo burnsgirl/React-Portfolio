@@ -6,7 +6,7 @@ function Header() {
         <header class="container">
         <div class="header">
             <div id="pic">
-                <img src="./src/components/assets/header/me.jpg" alt="Girl with blonde hair standing outside."/>
+                <img src="assets/header/me.jpg" alt="Girl with blonde hair standing outside."/>
             </div>
             <nav class="navbar">
                 <div class="navbar-left">
