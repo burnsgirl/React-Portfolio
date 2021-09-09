@@ -84,3 +84,40 @@ button {
       transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
     }
   
+    @media screen and (max-width:1050px) {
+          /* Body */
+    .container {
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    } 
+
+    /* Cards */
+    .card {
+        height: 400px;
+        width: 800px;
+        margin: 20px 20px;
+    }
+
+    .overview {
+        height:600px;
+        width:150px;
+        text-align: center;
+    }
+
+    .overview p {
+        position: relative;
+        top: -100px;
+    }
+
+    .mockup {
+        width:500px;
+    }
+
+    .links {
+        position: relative;
+        right:145px;
+
+    }
+    }
