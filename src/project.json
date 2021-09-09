@@ -32,21 +32,5 @@
         "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
         "btn-deployed": "https://burnsgirl.github.io/Work-Schedule/",
         "btn-github": "https://github.com/burnsgirl/Work-Schedule"
-    },
-    {
-        "id":5,
-        "mockup": "HikeTunez",
-        "image": ,
-        "overview": "",
-        "btn-deployed": ,
-        "btn-github": 
-    },
-    {
-        "id":6,
-        "mockup": "Target Charity",
-        "image": ,
-        "overview": "",
-        "btn-deployed": ,
-        "btn-github": 
     }
 ]
