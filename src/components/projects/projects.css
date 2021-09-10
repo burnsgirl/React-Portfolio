@@ -58,6 +58,8 @@
     align-items: center;
 }
 
+
+
 /* Button */
 
 button {
@@ -83,7 +85,50 @@ button {
   button:hover {
       transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
     }
+/* images */
 
+#img1 {
+    height:600px;
+    width:600px;
+    position: absolute;
+}
+
+#img2 {
+    height:600px;
+    width:700px;
+    position: absolute;
+}
+
+#img3 {
+    height: 600px;
+    width: 850px;
+    position: relative;
+    left: -98px;
+}
+
+#img4 {
+    height: 500px;
+    width: 750px;
+    position: absolute;
+    margin-top:40px;
+    margin-left: -22px;
+}
+
+#img5 {
+    height: 600px;
+    width: 550px;
+    position: absolute;
+    margin-top: -27px;
+    margin-left: 54px;
+}
+
+#img6 {
+    height: 600px;
+    width: 450px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 90px;
+}
   
     @media screen and (max-width:1050px) {
           /* Body */
