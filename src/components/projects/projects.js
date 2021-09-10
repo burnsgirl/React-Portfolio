@@ -8,7 +8,7 @@ function Projects (props) {
         <div class="container">
 
         
-            <div class="card">
+            <div class="card" id={"background" + props.id}>
                 <div class="overview" >
                     <p id={"overview" + props.id}>{props.overview}</p>
                 </div>

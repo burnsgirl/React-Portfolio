@@ -9,6 +9,15 @@
         "github": "https://github.com/burnsgirl/Recipe-Gram"
     },
     {
+        "id":4,
+        "mockup": "Work Schedule",
+        "image": "../assets/coding/Work Schedule.png",
+        "alt": "Something",
+        "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
+        "deployed": "https://burnsgirl.github.io/Work-Schedule/",
+        "github": "https://github.com/burnsgirl/Work-Schedule"
+    },
+    {
     
         "id":2,
         "mockup": "Note Taker",
@@ -27,15 +36,6 @@
         "overview": "Take this quiz if you would like to test your web coding knowledge!",
         "deployed": "https://burnsgirl.github.io/Code-Quiz/",
         "github": "https://github.com/burnsgirl/Code-Quiz"
-    },
-    {
-        "id":4,
-        "mockup": "Work Schedule",
-        "image": "../assets/coding/Work Schedule.png",
-        "alt": "Something",
-        "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
-        "deployed": "https://burnsgirl.github.io/Work-Schedule/",
-        "github": "https://github.com/burnsgirl/Work-Schedule"
     },
     {
         "id":5,
