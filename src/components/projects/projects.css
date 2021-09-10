@@ -54,6 +54,10 @@
     color:white;
 }
 
+#mockup2 {
+    color:rgb(209, 84, 84);
+}
+
 
 .links {
     margin-top: 175px;
@@ -117,7 +121,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28a5cc', end
 #overview2 {
     padding-top: 235px;
     padding-left: 30px;
-    color:white;
+    color:rgb(209, 84, 84);
+    
 }
 
 #overview3 {
@@ -181,6 +186,16 @@ button:hover {
     border-color: white;
     position: relative;
     top: -572px;
+}
+
+#deployed2 {
+    color:rgb(209, 84, 84);
+    border-color:rgb(209, 84, 84);
+}
+
+#github2 {
+    color:rgb(209, 84, 84);
+    border-color:rgb(209, 84, 84);
 }
 /* images */
 
