@@ -48,6 +48,13 @@
     border: none;
 }
 
+/* CodeQuiz Mockup */
+
+#mockup3 {
+    color:white;
+}
+
+
 .links {
     margin-top: 175px;
     margin-left: 600px;
@@ -116,7 +123,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28a5cc', end
 #overview3 {
     padding-top: 222px;
     padding-left: 30px;
-    color:rgb(209, 84, 84);
+    color:rgb(255, 254, 254);
 }
 
 #overview4 {
@@ -160,6 +167,20 @@ button {
   
 button:hover {
       transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
+}
+
+#deployed3 {
+    color:white;
+    border-color: white;
+    position: relative;
+    top: -572px;
+}
+
+#github3 {
+    color:white;
+    border-color: white;
+    position: relative;
+    top: -572px;
 }
 /* images */
 
