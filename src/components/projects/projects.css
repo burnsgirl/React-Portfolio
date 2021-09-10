@@ -55,9 +55,12 @@
 }
 
 #mockup2 {
-    color:rgb(209, 84, 84);
+    color:white;
 }
 
+#mockup5 {
+    color:white;
+}
 
 .links {
     margin-top: 175px;
@@ -131,7 +134,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93861d', end
 #overview2 {
     padding-top: 235px;
     padding-left: 30px;
-    color:rgb(209, 84, 84);
+    color:white;
     
 }
 
@@ -149,6 +152,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93861d', end
 #overview5 {
     padding-top: 196px;
     padding-left: 30px;
+    color:white;
 }
 
 #overview6 {
@@ -199,13 +203,23 @@ button:hover {
 }
 
 #deployed2 {
-    color:rgb(209, 84, 84);
-    border-color:rgb(209, 84, 84);
+    color:white;
+    border-color:white;
 }
 
 #github2 {
-    color:rgb(209, 84, 84);
-    border-color:rgb(209, 84, 84);
+    color:white;
+    border-color:white;
+}
+
+#deployed5 {
+    color:white;
+    border-color:white;
+}
+
+#github5 {
+    color:white;
+    border-color:white;
 }
 /* images */
 
@@ -245,11 +259,11 @@ button:hover {
 }
 
 #img6 {
-    height: 600px;
-    width: 450px;
+    height: 530px;
+    width: 370px;
     position: absolute;
     margin-top: 40px;
-    margin-left: 90px;
+    margin-left: 141px;
 }
 
 
