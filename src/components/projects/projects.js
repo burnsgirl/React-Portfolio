@@ -2,6 +2,7 @@ import React from 'react';
 import './projects.css';
 import '../../../src/project.json';
 
+
 function Projects (props) {
     return (
         <div class="container">
@@ -9,14 +10,14 @@ function Projects (props) {
         
             <div class="card">
                 <div class="overview" >
-                    <p>{props.overview}</p>
+                    <p id={"overview" + props.id}>{props.overview}</p>
                 </div>
                 <div class="mockup">
-                    <h1>{props.mockup}</h1>
-                    <img src={props.image} alt={props.alt}></img>
+                    <h1 id={"mockup" + props.id}>{props.mockup}</h1>
+                    <img src={props.image} alt={props.alt} id={"img" + props.id}></img>
                     <div class="links">
-                        <button class="btn-deployed" target='_blank' onclick="window.location={props.deployed}">Deployed</button>
-                        <button class="btn-github" target='_blank' onclick="window.location={props.github}">GitHub</button>
+                        <button class="btn-deployed" target='_blank' onclick="window.location={props.deployed}" id={"deployed" + props.id}>Deployed</button>
+                        <button class="btn-github" target='_blank' onclick="window.location={props.github}" id={"github" + props.id}>GitHub</button>
                     </div>
                 </div>  
             </div>

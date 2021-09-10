@@ -5,6 +5,7 @@ import Header from './components/header/header';
 import Projects from './components/projects/projects';
 import project from './project.json';
 
+
 class App extends Component {
   state = {
     project
