@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Doctype from './components/doctype';
 import Header from './components/header/header';
 import Projects from './components/projects/projects';
-import project from './project.json';
+// import project from './project.json';
 
 function App() {
   return (
@@ -11,14 +11,18 @@ function App() {
     <>
       <Doctype />
       <Header />
-      <Projects 
+      <Projects />
+      {/* <Projects 
+      {props.project.map((project, index) => 
+      
+      }
       mockup={project[0].mockup}
       image={project[0].image}
       overview={project[0].overview}
       deployed={project[0].deployed}
       github={project[0].github}
-      />
-      <Projects 
+      /> */}
+      {/* <Projects 
       mockup={project[1].mockup}
       image={project[1].image}
       overview={project[1].overview}
@@ -48,7 +52,7 @@ function App() {
       image={project[5].image}
       overview={project[5].overview}
       deployed={project[5].deployed}
-      github={project[5].github}/>
+      github={project[5].github}/> */}
     
 </>
 

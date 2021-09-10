@@ -26,8 +26,8 @@ function Header() {
                 <p id="aboutme">Inspirational and hardworking individual with extensive skills in different applications with the ability to learn quickly. A very coordinated and well organized individual that looks for areas of opportunity for growth in myself. Great at communicating with others to accomplish a goal or task.</p>
                 <div class="contact">
                     <ul>
-                        <a id="number">210-722-1739 |</a>
-                        <a id="email">dauphineburns@gmail.com |</a>
+                        <a id="number" href="#about">210-722-1739 |</a>
+                        <a id="email" href="#about">dauphineburns@gmail.com |</a>
                         <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" id="linkedin">LinkedIn |</a>
                         <a href="https://github.com/burnsgirl"  id="github">GitHub</a>
                     </ul>
