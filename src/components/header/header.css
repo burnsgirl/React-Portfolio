@@ -75,6 +75,10 @@ header {
     font-weight: 100;
 }
 
+#about a {
+    padding-left:10px;
+}
+
 /* Overview */
 
 .aboutmeoverview {
@@ -104,6 +108,7 @@ header {
     font-weight: bold;
     text-decoration: none;
     color: rgb(95, 93, 93);
+    padding-left:5px;
 }
 
 @media screen and (max-width:1050px) {
