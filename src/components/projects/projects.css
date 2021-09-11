@@ -474,4 +474,152 @@ button:hover {
     .mockup {
         width: 300px;
     }
+
+    /* RecipeGram */
+    #img1 {
+        height: 250px;
+        width: 250px;
+        position: relative;
+        top: -23px;
+        left: 103px;
+    }
+
+    #overview1 {
+        top:-65px;
+    }
+
+    #deployed1 {
+        position: relative;
+        left: -397px;
+        top: -231px;
+    }
+
+    #github1 {
+        position: relative;
+        left: -246px;
+        top: -304px;
+    }
+    /* Code Quiz */
+
+    #img3 {
+        height: 250px;
+        width: 400px;
+        position: relative;
+        left: 25px;
+        top: -46px;
+    }
+
+    #deployed3 {
+        position: relative;
+        left: -397px;
+        top: -243px;
+    }
+
+    #github3 {
+        position: relative;
+        left: -246px;
+        top: -316px;
+    }
+
+    /* Note Taker */
+    #img2 {
+        height: 300px;
+        width: 350px;
+        position: relative;
+        left: 54px;
+        top: -76px;
+    }
+
+    #deployed2 {
+        position: relative;
+        left: -397px;
+        top: -291px;
+    }
+
+    #github2 {
+        position: relative;
+        left: -246px;
+        top: -364px;
+    }
+
+/* Work Schedule */
+    #img4 {
+        height: 200px;
+        width: 300px;
+        position: relative;
+        top: -68px;
+        left: 57px;
+    }
+
+    #overview4 {
+        position: relative;
+        top:-100px;
+    }
+
+    #deployed4 {
+        position: relative;
+        left: -397px;
+        top: -251px;
+    }
+
+    #github4 {
+        position: relative;
+        left: -246px;
+        top: -324px;
+    }
+
+    /* Fitness */
+
+    #img5 {
+        position: relative;
+        height: 400px;
+        left: -120px;
+        top: -54px;
+        width: 350px;
+    }
+
+    #github5 {
+        position: relative;
+        left: -230px;
+        top: -482px;
+    }
+
+    #deployed5 {
+        position: relative;
+        left: -230px;
+        top: -495px;
+    }
+
+    #overview5 {
+        padding-top: 217px;
+        padding-left: 30px;
+    }
+
+    /* hiketunez */
+
+
+    #img6 {
+        position: relative;
+        height: 300px;
+        left: -123px;
+        top: -64px;
+        width: 200px
+    }
+
+    #github6 {
+        position: relative;
+        left: -230px;
+        top: -482px;
+    }
+
+    #deployed6 {
+        position: relative;
+        left: -230px;
+        top: -495px;
+    }
+
+    #overview6 {
+        padding-top: 224px;
+        padding-left: 30px;
+    }
 }
