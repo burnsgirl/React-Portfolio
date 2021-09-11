@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Google Play",
+        "image":"../assets/coding/Google.png",
+        "alt":"Something"
+    },
+    {
+        "id":2,
+        "name":"Honda HR-V",
+        "image":"../assets/coding/Honda.jpeg",
+        "alt":"Something"
+    },
+    {
+        "id":3,
+        "name":"Nike",
+        "image":"../assets/coding/Nike.jpeg",
+        "alt":"Something"
+    },
+    {
+        "id":4,
+        "name":"Amazon Echo",
+        "image":"../assets/coding/Echo.jpeg",
+        "alt":"Something"
+    }
+]
