@@ -251,57 +251,52 @@ header {
     }
 
     #pic img {
-        justify-content: center;
-        align-items: center;
+        left: 224px;
     }
 
     #name {
         position: relative;
-        left: 33px;
+        left: -85px;
         bottom: -270px;
         font-size:35px;
     }
 
     #about {
-        left: -50px;
+        left: -170px;
         top: 239px;
         font-size: 20px;
     }
 
     #aboutme {
         top: 236px;
-        left: 45px;
+        left: -79px;
         width: 300px;
     }
 
-    .contact {
-        position: relative;
-        left: -80px;
-        top: 265px;
-        width: 600px;
-        border-bottom:none;
+    .contact a{
+        padding:none;
     }
 
     #number {
-    left: 201px;
+    left:82px;
     top: -62px;
     font-size: 15px;
     }
 
     #email {
-        left: 139px;
+        left: 22px;
         top: -53px;
         font-size: 15px;
     }
 
     #linkedin {
-        left: -5px;
+        left: -112px;
         top: -26px;
-        font-size: 15px;;
+        font-size: 15px;
     }
 
     #github {
-        left: 211px;
+        left: 106px;
         top: -21px;
         font-size: 15px;
     }
