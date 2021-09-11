@@ -62,7 +62,7 @@
     color:white;
 }
 
-.links {
+/* .links {
     margin-top: 175px;
     margin-left: 600px;
     height: 200px;
@@ -70,7 +70,7 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-}
+} */
 
 /* Backgrounds */
 
@@ -299,11 +299,11 @@ button:hover {
         width:500px;
     }
 
-    .links {
+    /* .links {
         position: relative;
         right:145px;
 
-    }
+    } */
 
     /* recipegram */
     #img1 {
