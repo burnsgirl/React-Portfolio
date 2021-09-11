@@ -3,7 +3,7 @@ import "./header.css";
 
 function Header() {
     return (
-        <header class="container">
+        <header >
         <div class="header">
             <div id="pic">
                 <img src="assets/header/me.jpg" alt="Girl with blonde hair standing outside."/>

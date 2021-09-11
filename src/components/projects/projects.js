@@ -5,7 +5,7 @@ import '../../../src/project.json';
 
 function Projects (props) {
     return (
-        <div class="container">
+        <div >
 
         
             <div class="card" id={"background" + props.id}>
