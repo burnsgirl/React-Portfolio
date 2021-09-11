@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/header/header';
 import Projects from './components/projects/projects';
 import project from './project.json';
-import Footer from './components/footer/footer'
+import Footer from './components/footer/footer';
 
 
 class App extends Component {
