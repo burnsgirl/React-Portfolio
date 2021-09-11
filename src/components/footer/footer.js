@@ -3,7 +3,7 @@ import "./footer.css";
 
 function Footer () {
     return (
-        <div class="footer">
+        <div class="footer container">
             <ul>
                 <a id="numberf" href="#about">210-722-1739 |</a>
                 <a id="emailf" href="#about">dauphineburns@gmail.com |</a>
