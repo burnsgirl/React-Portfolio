@@ -1,0 +1,91 @@
+.footer {
+    position: relative;
+    left: 60px;
+}
+
+.footer a{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(95, 93, 93);
+    padding-left:5px;
+}
+
+@media screen and (max-width:1050px) {
+
+
+    .footer {
+        position: relative;
+        left:-80px;
+        border-bottom: 3px solid rgb(95, 93, 93);
+        width:600px;
+    }
+
+}
+
+@media screen and (max-width:850px) {
+    .footer {
+        position: relative;
+        left: -80px;
+        top: 265px;
+        width: 600px;
+        border-bottom:none;
+    }
+
+    #numberf {
+        position: relative;
+        left:195px;
+    }
+
+    #emailf {
+        position: relative;
+        left: 12px;
+        top: 35px;
+    }
+
+    #linkedinf {
+        position: relative;
+        left: -175px;
+        top: 80px;
+    }
+
+    #githubf {
+        position: relative;
+        left: -172px;
+        top: 80px;
+    }
+}
+
+@media screen and (max-width:450px) {
+
+    .footer {
+        width:300px;
+    }
+
+    .footer a{
+        padding:none;
+    }
+
+    #numberf {
+    left:82px;
+    top: -62px;
+    font-size: 15px;
+    }
+
+    #emailf {
+        left: 22px;
+        top: -53px;
+        font-size: 15px;
+    }
+
+    #linkedinf {
+        left: -112px;
+        top: -26px;
+        font-size: 15px;
+    }
+
+    #githubf {
+        left: 106px;
+        top: -21px;
+        font-size: 15px;
+    }
+}
