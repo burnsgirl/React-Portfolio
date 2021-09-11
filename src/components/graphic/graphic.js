@@ -3,13 +3,13 @@ import './graphic.css';
 import '../../../src/graphic.json';
 
 
-function Graphic () {
+function Graphic (props) {
 
     return(
         <div class="container" id="graphic">
             <div class="graphic-card">
-                <h1 class="name">GOOGLE PLAY</h1>
-                        <img id="google" src="../public/Assets/Graphic Design/Google.png" alt="Graphic image of Google Play logo."/>
+                <h1 class="name">{props.name}</h1>
+                        <img id={"img" + props.id} src={props.image} alt={props.alt}/>
             </div>
         </div>
     )
