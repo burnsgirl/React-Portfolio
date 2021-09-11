@@ -702,23 +702,25 @@ button:hover {
     }
 
     #img3 {
-        height: 250px;
-        width: 400px;
+        height: 240px;
+        width: 390px;
         position: relative;
-        left: 25px;
-        top: -46px;
+        left: -40px;
+        top: -24px;
     }
 
     #deployed3 {
-        position: relative;
         left: -397px;
-        top: -243px;
+        top: -182px;
+        color:rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93)
     }
 
     #github3 {
-        position: relative;
-        left: -246px;
-        top: -316px;
+        left: -397px;
+        top: -173px;
+        color:rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93)
     }
 
     #overview3 {
