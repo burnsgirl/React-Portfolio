@@ -269,7 +269,7 @@ button:hover {
 
   
     @media screen and (max-width:1050px) {
-          /* Body */
+    /* Body */
     .container {
         display:flex;
         flex-direction: row;
@@ -620,6 +620,388 @@ button:hover {
 
     #overview6 {
         padding-top: 224px;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .container {
+        margin: 0px 20px;
+    }
+
+    /* Cards */
+    .card {
+        height: 600px;
+        width: 300px;
+        margin: 10px;
+    }
+
+    .mockup h1 {
+        position: relative;
+        top:-130px;
+        left:75px;
+        font-size:40px;
+    }
+
+    .overview {
+        height:150px;
+        width:460px;
+        text-align: center;
+    }
+
+    .overview p {
+        position: relative;
+        top: -130px;
+        left:-15px;
+    }
+
+    .mockup {
+        width: 300px;
+    }
+
+    /* RecipeGram */
+
+    #background1 {
+        background: none;
+        border:5px solid #6aeeb0; /* Old browsers */
+    }
+
+    #img1 {
+        height: 250px;
+        width: 250px;
+        position: relative;
+        top: -23px;
+        left: 103px;
+    }
+
+    #overview1 {
+        top:-65px;
+    }
+
+    #deployed1 {
+        position: relative;
+        left: -397px;
+        top: -231px;
+    }
+
+    #github1 {
+        position: relative;
+        left: -246px;
+        top: -304px;
+    }
+    /* Code Quiz */
+    #background3 {
+        background: none;
+        border:5px solid #1e6f9a; /* Old browsers */
+    }
+
+    #img3 {
+        height: 250px;
+        width: 400px;
+        position: relative;
+        left: 25px;
+        top: -46px;
+    }
+
+    #deployed3 {
+        position: relative;
+        left: -397px;
+        top: -243px;
+    }
+
+    #github3 {
+        position: relative;
+        left: -246px;
+        top: -316px;
+    }
+
+    /* Note Taker */
+    #background2 {
+        background: none;
+        border:5px solid #45c0ae; /* Old browsers */
+    }
+
+    #img2 {
+        height: 300px;
+        width: 350px;
+        position: relative;
+        left: 54px;
+        top: -76px;
+    }
+
+    #deployed2 {
+        position: relative;
+        left: -397px;
+        top: -291px;
+    }
+
+    #github2 {
+        position: relative;
+        left: -246px;
+        top: -364px;
+    }
+
+/* Work Schedule */
+    #background4 {
+        background: none;
+        border:5px solid #28a5cc; /* Old browsers */
+    }
+    #img4 {
+        height: 200px;
+        width: 300px;
+        position: relative;
+        top: -68px;
+        left: 57px;
+    }
+
+    #overview4 {
+        position: relative;
+        top:-100px;
+    }
+
+    #deployed4 {
+        position: relative;
+        left: -397px;
+        top: -251px;
+    }
+
+    #github4 {
+        position: relative;
+        left: -246px;
+        top: -324px;
+    }
+
+    /* Fitness */
+    #background5 {
+        background: none;
+        border:5px solid #a84da6; /* Old browsers */
+    }
+    #img5 {
+        position: relative;
+        height: 400px;
+        left: -120px;
+        top: -54px;
+        width: 350px;
+    }
+
+    #github5 {
+        position: relative;
+        left: -230px;
+        top: -482px;
+    }
+
+    #deployed5 {
+        position: relative;
+        left: -230px;
+        top: -495px;
+    }
+
+    #overview5 {
+        padding-top: 217px;
+        padding-left: 30px;
+    }
+
+    /* hiketunez */
+    #background6 {
+        background: none;
+        border:5px solid #93861d; /* Old browsers */
+    }
+
+    #img6 {
+        position: relative;
+        height: 300px;
+        left: -123px;
+        top: -64px;
+        width: 200px
+    }
+
+    #github6 {
+        position: relative;
+        left: -230px;
+        top: -482px;
+    }
+
+    #deployed6 {
+        position: relative;
+        left: -230px;
+        top: -495px;
+    }
+
+    #overview6 {
+        padding-top: 224px;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width:300px) {
+
+    /* Body */
+    .container {
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    } 
+
+    /* Cards */
+    .card {
+        height: 400px;
+        width: 800px;
+        margin: 20px 20px;
+    }
+
+    .overview {
+        height:600px;
+        width:150px;
+        text-align: center;
+    }
+
+    .overview p {
+        position: relative;
+        top: -100px;
+    }
+
+    .mockup {
+        width:500px;
+    }
+
+    .links {
+        position: relative;
+        right:145px;
+
+    }
+
+    /* recipegram */
+    #img1 {
+        height: 350px;
+        width: 350px;
+        position: relative;
+        left: 71px;
+        top: 32px;
+    }
+
+    #deployed1 {
+        position: relative;
+        left: -35px;
+        top: -438px;
+    }
+
+    #github1 {
+        position: relative;
+        left: -35px;
+        top: -424px;
+    }
+
+    /* Code Quiz */
+
+    #img3 {
+        height: 400px;
+        width: 600px;
+        position: relative;
+        left: -47px;
+    }
+
+    #deployed3 {
+        position: relative;
+        left: -35px;
+        top: -480px;
+    }
+
+    #github3 {
+        position: relative;
+        left: -35px;
+        top: -461px;
+    }
+
+    /* Note Taker */
+
+    #img2 {
+        height:400px;
+        width:500px;
+        position: absolute;
+    }
+
+    #deployed2 {
+        position: relative;
+        left: -35px;
+        top: -86px;
+    }
+
+    #github2 {
+        position: relative;
+        left: -35px;
+        top: -64px;
+    }
+
+    /* Work Schedule */
+
+    #deployed4 {
+        position: relative;
+        left: -35px;
+        top: -86px;
+    }
+
+    #github4 {
+        position: relative;
+        left: -35px;
+        top: -64px;
+    }
+
+    #img4 {
+        height: 300px;
+        width: 450px;
+        position: absolute;
+        margin-top: 57px;
+        margin-left: 26px;
+    }
+
+    /* Fitness */
+
+    #img5 {
+        position: relative;
+        height: 400px;
+        left: 2px;
+        top: 27px;
+        width: 350px;
+    }
+
+    #github5 {
+        position: relative;
+        left: -41px;
+        top: -447px;
+    }
+
+    #deployed5 {
+        position: relative;
+        left: -41px;
+        top: -447px;
+    }
+
+    /* hiketunez */
+
+
+    #img6 {
+        position: relative;
+        height: 300px;
+        left: 2px;
+        top: 16px;
+        width: 200px;
+    }
+
+    #github6 {
+        position: relative;
+        left: -41px;
+        top: -410px;
+    }
+
+    #deployed6 {
+        position: relative;
+        left: -41px;
+        top: -435px;
+    }
+
+    #overview6 {
+        padding-top: 208px;
         padding-left: 30px;
     }
 }
