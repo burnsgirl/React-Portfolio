@@ -305,6 +305,139 @@ button:hover {
 
     }
 
+    /* recipegram */
+    #img1 {
+        height: 350px;
+        width: 350px;
+        position: relative;
+        left: 71px;
+        top: 32px;
+    }
+
+    #deployed1 {
+        position: relative;
+        left: -35px;
+        top: -438px;
+    }
+
+    #github1 {
+        position: relative;
+        left: -35px;
+        top: -424px;
+    }
+
+    /* Code Quiz */
+
+    #img3 {
+        height: 400px;
+        width: 600px;
+        position: relative;
+        left: -47px;
+    }
+
+    #deployed3 {
+        position: relative;
+        left: -35px;
+        top: -480px;
+    }
+
+    #github3 {
+        position: relative;
+        left: -35px;
+        top: -461px;
+    }
+
+    /* Note Taker */
+
+    #img2 {
+        height:400px;
+        width:500px;
+        position: absolute;
+    }
+
+    #deployed2 {
+        position: relative;
+        left: -35px;
+        top: -86px;
+    }
+
+    #github2 {
+        position: relative;
+        left: -35px;
+        top: -64px;
+    }
+
+    /* Work Schedule */
+
+    #deployed4 {
+        position: relative;
+        left: -35px;
+        top: -86px;
+    }
+
+    #github4 {
+        position: relative;
+        left: -35px;
+        top: -64px;
+    }
+
+    #img4 {
+        height: 300px;
+        width: 450px;
+        position: absolute;
+        margin-top: 57px;
+        margin-left: 26px;
+    }
+
+    /* Fitness */
+
+    #img5 {
+        position: relative;
+        height: 400px;
+        left: 2px;
+        top: 27px;
+        width: 350px;
+    }
+
+    #github5 {
+        position: relative;
+        left: -41px;
+        top: -447px;
+    }
+
+    #deployed5 {
+        position: relative;
+        left: -41px;
+        top: -447px;
+    }
+
+    /* hiketunez */
+
+
+    #img6 {
+        position: relative;
+        height: 300px;
+        left: 2px;
+        top: 16px;
+        width: 200px;
+    }
+
+    #github6 {
+        position: relative;
+        left: -41px;
+        top: -410px;
+    }
+
+    #deployed6 {
+        position: relative;
+        left: -41px;
+        top: -435px;
+    }
+
+    #overview6 {
+        padding-top: 208px;
+        padding-left: 30px;
+    }
 }
 
 @media screen and (max-width:850px) {
