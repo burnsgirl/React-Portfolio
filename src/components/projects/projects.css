@@ -817,23 +817,18 @@ button:hover {
     }
 
     #img6 {
-        position: relative;
-        height: 300px;
-        left: -123px;
-        top: -64px;
-        width: 200px
+        left: -82px;
+        top: -48px;
     }
 
     #github6 {
-        position: relative;
-        left: -230px;
-        top: -482px;
+        left: -398px;
+        top: -247px;
     }
 
     #deployed6 {
-        position: relative;
-        left: -230px;
-        top: -495px;
+        left: -397px;
+        top: -237px;
     }
 
     #overview6 {
